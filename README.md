@@ -1,2 +1,2 @@
 # Super_Store_Sales_Dashboard
-Super stores sales analysis
+This repository contains the Super Store Sales Dashboard project, developed using Power BI. The dataset used in this project provides an analysis of sales data across various categories, regions, and customer segments, helping in better understanding sales performance, profitability, and trends over time. The visualizations in this dashboard offer insights into key metrics that can drive business decisions.
